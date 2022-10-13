@@ -18,7 +18,7 @@ entries:
     sources:
     - https://github.com/ncabatoff/process-exporter
     urls:
-    - https://github.com/mumoshu/prometheus-process-exporter/releases/download/prometheus-process-exporter-0.4.2/prometheus-process-exporter-0.4.2.tgz
+    - https://github.com/pradipd/prometheus-process-exporter/releases/download/prometheus-process-exporter-0.4.2/prometheus-process-exporter-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v1
     appVersion: 0.4.0
